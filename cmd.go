@@ -59,7 +59,7 @@ func (c *Cmd) Run() error {
 	return c.doRun(ppty, winCh)
 }
 
-var _ tea.ExecCommand = &Cmd{}
+var _ tea.ExecCommand = &tea.OsExecCommand{}
 
 // SetStderr conforms with tea.ExecCommand.
 func (*Cmd) SetStderr(io.Writer) {}
