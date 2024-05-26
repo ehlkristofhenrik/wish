@@ -62,3 +62,6 @@ require (
 	golang.org/x/tools v0.14.0 // indirect
 	gopkg.in/warnings.v0 v0.1.2 // indirect
 )
+
+replace github.com/charmbracelet/bubbletea => github.com/ehlkristofhenrik/bubbletea v0.26.4
+replace github.com/charmbracelet/wish => github.com/ehlkristofhenrik/wish v1.4.1
