@@ -1,4 +1,4 @@
-module github.com/charmbracelet/wish
+module github.com/ehlkristofhenrik/wish
 
 go 1.19
 
