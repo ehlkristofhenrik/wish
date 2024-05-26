@@ -5,7 +5,7 @@ import (
 	"io"
 	"os/exec"
 
-	tea "github.com/charmbracelet/bubbletea"
+	tea "github.com/ehlkristofhenrik/bubbletea"
 	"github.com/charmbracelet/ssh"
 )
 
