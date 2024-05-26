@@ -4,7 +4,7 @@
 package bubbletea
 
 import (
-	tea "github.com/charmbracelet/bubbletea"
+	tea "github.com/ehlkristofhenrik/bubbletea"
 	"github.com/charmbracelet/lipgloss"
 	"github.com/charmbracelet/ssh"
 	"github.com/muesli/termenv"

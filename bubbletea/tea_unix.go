@@ -6,7 +6,7 @@ package bubbletea
 import (
 	"image/color"
 
-	tea "github.com/charmbracelet/bubbletea"
+	tea "github.com/ehlkristofhenrik/bubbletea"
 	"github.com/charmbracelet/lipgloss"
 	"github.com/charmbracelet/ssh"
 	"github.com/charmbracelet/x/exp/term"

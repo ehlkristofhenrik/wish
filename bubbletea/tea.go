@@ -5,11 +5,11 @@ import (
 	"context"
 	"strings"
 
-	tea "github.com/charmbracelet/bubbletea"
+	tea "github.com/ehlkristofhenrik/bubbletea"
 	"github.com/charmbracelet/lipgloss"
 	"github.com/charmbracelet/log"
 	"github.com/charmbracelet/ssh"
-	"github.com/charmbracelet/wish"
+	"github.com/ehlkristofhenrik/wish"
 	"github.com/muesli/termenv"
 )
 
